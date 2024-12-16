@@ -1,0 +1,10 @@
+streamlit
+streamlit_chat
+python-dotenv
+numpy
+langchain
+langchain_community
+langchain-mistralai
+langchain-core
+pypdf2
+langgraph
